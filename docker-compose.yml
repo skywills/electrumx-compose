@@ -8,3 +8,4 @@ services:
       environment:
         - 'DAEMON_URL=${DAEMON_URL}'
         - 'COIN=${COIN}'
+        - 'DEPENDENCIES=${DEPENDENCIES}'
