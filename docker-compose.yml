@@ -9,6 +9,4 @@ services:
         - 'DAEMON_URL=${DAEMON_URL}'
         - 'COIN=${COIN}'
         - 'DEPENDENCIES=${DEPENDENCIES}'
-        - 'RPC_HOST=127.0.0.1'
-        - 'RPC_PORT=${RPC_PORT}'
         - 'SERVICES=${SERVICES}'
